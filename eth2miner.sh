@@ -4,7 +4,7 @@
 ## Begin of user-editable part ##
 #################################
 
-POOL=stratum+tcp://eth.f2pool.com:6688
+POOL=stratum1+tls://eth.2miners.com:12020
 WALLET=0x70278496f0eaa3810d9dbdd7f388425e029013db.lol-eth-124a
 
 #################################
